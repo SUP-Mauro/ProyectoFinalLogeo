@@ -1,0 +1,8 @@
+D:\Trabajo1\TrabajosdeCampo\ProyectoFinal\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe.config
+D:\Trabajo1\TrabajosdeCampo\ProyectoFinal\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe
+D:\Trabajo1\TrabajosdeCampo\ProyectoFinal\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.pdb
+D:\Trabajo1\TrabajosdeCampo\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.AssemblyReference.cache
+D:\Trabajo1\TrabajosdeCampo\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.CoreCompileInputs.cache
+D:\Trabajo1\TrabajosdeCampo\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.exe
+D:\Trabajo1\TrabajosdeCampo\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.pdb
+D:\Trabajo1\TrabajosdeCampo\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.exe.config
