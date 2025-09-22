@@ -1,2 +1,2 @@
-Hola, Este es nuestro trabajo final Logeo
+Hola, Este es nuestro trabajo final Logeo <br>
 Hola, soy Mauro
